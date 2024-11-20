@@ -1,0 +1,14 @@
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\bin\Debug\net8.0\vehicle.exe
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\bin\Debug\net8.0\vehicle.deps.json
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\bin\Debug\net8.0\vehicle.runtimeconfig.json
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\bin\Debug\net8.0\vehicle.dll
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\bin\Debug\net8.0\vehicle.pdb
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.AssemblyInfoInputs.cache
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.AssemblyInfo.cs
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.dll
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\refint\vehicle.dll
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.pdb
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\vehicle.genruntimeconfig.cache
+C:\Users\kingi\Desktop\vehics_kyle\vehicle\vehicle\obj\Debug\net8.0\ref\vehicle.dll
