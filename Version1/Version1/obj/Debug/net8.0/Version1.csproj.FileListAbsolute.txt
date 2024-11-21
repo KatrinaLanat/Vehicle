@@ -1,0 +1,14 @@
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\bin\Debug\net8.0\Version1.exe
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\bin\Debug\net8.0\Version1.deps.json
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\bin\Debug\net8.0\Version1.runtimeconfig.json
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\bin\Debug\net8.0\Version1.dll
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\bin\Debug\net8.0\Version1.pdb
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.AssemblyInfoInputs.cache
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.AssemblyInfo.cs
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.csproj.CoreCompileInputs.cache
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.dll
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\refint\Version1.dll
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.pdb
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\Version1.genruntimeconfig.cache
+C:\Users\kingi\Desktop\vehicle_micaL\Version1\Version1\obj\Debug\net8.0\ref\Version1.dll
